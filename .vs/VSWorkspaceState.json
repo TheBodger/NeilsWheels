@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets",
+    "\\assets\\img",
+    "\\blog"
   ],
-  "SelectedNode": "\\D:\\Users\\kcpfr\\Source\\Repos\\NeilsWheels",
+  "SelectedNode": "\\blog\\trip2.html",
   "PreviewInSolutionExplorer": false
 }
