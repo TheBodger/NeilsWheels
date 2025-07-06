@@ -1,0 +1,28 @@
+@media (max-width: 767px) {
+  .carousel-caption {
+    display: block !important;
+    position: initial;
+    right: 1%;
+    bottom: 0.25rem;
+    left: 1%;
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
+    color: #fff;
+    text-align: center;
+  }
+}
+
+@media (max-width: 767px) {
+  .caption-text {
+    color: black;
+  }
+}
+
+@media (min-width: 768px) {
+  .caption-text {
+    background-color: rgba(0,0,0,.5);
+    color: white;
+    text-shadow: 1px 1px 1px black;
+  }
+}
+
