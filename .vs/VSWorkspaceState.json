@@ -2,10 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\assets",
-    "\\assets\\img",
-    "\\assets\\img\\Trip5",
-    "\\blog"
+    "\\assets\\bootstrap",
+    "\\assets\\bootstrap\\css",
+    "\\assets\\bootstrap\\js",
+    "\\assets\\css"
   ],
-  "SelectedNode": "\\assets\\img\\Trip5\\DSC_1445.jpg",
   "PreviewInSolutionExplorer": false
 }
