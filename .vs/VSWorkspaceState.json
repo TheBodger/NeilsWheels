@@ -5,7 +5,8 @@
     "\\assets\\bootstrap",
     "\\assets\\bootstrap\\css",
     "\\assets\\bootstrap\\js",
-    "\\assets\\css"
+    "\\assets\\css",
+    "\\blog"
   ],
   "PreviewInSolutionExplorer": false
 }
