@@ -2,13 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\assets",
-    "\\assets\\bootstrap",
     "\\assets\\bootstrap\\css",
     "\\assets\\bootstrap\\js",
-    "\\assets\\css",
-    "\\assets\\img",
-    "\\assets\\js",
-    "\\blog"
+    "\\assets\\v360"
   ],
+  "SelectedNode": "\\assets\\v360",
   "PreviewInSolutionExplorer": false
 }
